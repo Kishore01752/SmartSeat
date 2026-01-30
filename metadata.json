@@ -1,0 +1,5 @@
+{
+  "name": "Smart Exam Seating Allocation System",
+  "description": "A comprehensive MERN-stack inspired exam management platform that automates conflict-free seating arrangements using advanced subject-mixing algorithms.",
+  "requestFramePermissions": []
+}
